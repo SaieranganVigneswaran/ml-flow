@@ -11,8 +11,8 @@ This Repository contains the resources for my tutorial **"Managing the end-to-en
   - create a new environment: `virtualenv mlflow_tutorial`
   - activate the environment: `source mlflow_tutorial/bin/activate`
   - run `pip install -r requirements.txt`
-  
-- **with pipenv** 
+
+- **with pipenv**
   - install pipenv: `pip install pipenv`
   - run `pipenv install` in the directory of the Pipfile
   - activate the environment by `pipenv shell`
@@ -25,3 +25,6 @@ This Repository contains the resources for my tutorial **"Managing the end-to-en
 
 ## Setup the environment
 - install postgresql: `sudo apt-get install postgresql postgresql-contrib postgresql-server-dev-all`
+
+
+![alt text](<Screenshot 2024-04-10 170927.png>) ![alt text](<Screenshot 2024-04-10 174741.png>)
