@@ -1,0 +1,16 @@
+artifact_uri: /home/saierangan/ml-flow/mlruns/200561429720208766/0a1b5bd8358b451d892e7c72074049cd/artifacts
+deleted_time: 1712742306874
+end_time: 1712739563632
+entry_point_name: ''
+experiment_id: '200561429720208766'
+lifecycle_stage: deleted
+run_id: 0a1b5bd8358b451d892e7c72074049cd
+run_name: loud-shrimp-8
+run_uuid: 0a1b5bd8358b451d892e7c72074049cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712739560169
+status: 3
+tags: []
+user_id: saierangan

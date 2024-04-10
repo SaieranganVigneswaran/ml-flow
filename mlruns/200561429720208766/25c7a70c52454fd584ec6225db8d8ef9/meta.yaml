@@ -1,0 +1,15 @@
+artifact_uri: /home/saierangan/ml-flow/mlruns/200561429720208766/25c7a70c52454fd584ec6225db8d8ef9/artifacts
+end_time: 1712744208403
+entry_point_name: ''
+experiment_id: '200561429720208766'
+lifecycle_stage: active
+run_id: 25c7a70c52454fd584ec6225db8d8ef9
+run_name: chill-crow-859
+run_uuid: 25c7a70c52454fd584ec6225db8d8ef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712744206537
+status: 3
+tags: []
+user_id: saierangan

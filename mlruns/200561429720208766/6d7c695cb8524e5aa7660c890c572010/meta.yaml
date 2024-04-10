@@ -1,0 +1,16 @@
+artifact_uri: /home/saierangan/ml-flow/mlruns/200561429720208766/6d7c695cb8524e5aa7660c890c572010/artifacts
+deleted_time: 1712742306868
+end_time: 1712739733279
+entry_point_name: ''
+experiment_id: '200561429720208766'
+lifecycle_stage: deleted
+run_id: 6d7c695cb8524e5aa7660c890c572010
+run_name: peaceful-mare-90
+run_uuid: 6d7c695cb8524e5aa7660c890c572010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712739731081
+status: 3
+tags: []
+user_id: saierangan

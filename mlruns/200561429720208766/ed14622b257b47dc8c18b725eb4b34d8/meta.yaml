@@ -1,0 +1,16 @@
+artifact_uri: /home/saierangan/ml-flow/mlruns/200561429720208766/ed14622b257b47dc8c18b725eb4b34d8/artifacts
+deleted_time: 1712742306548
+end_time: 1712739735436
+entry_point_name: ''
+experiment_id: '200561429720208766'
+lifecycle_stage: deleted
+run_id: ed14622b257b47dc8c18b725eb4b34d8
+run_name: persistent-asp-62
+run_uuid: ed14622b257b47dc8c18b725eb4b34d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712739733314
+status: 3
+tags: []
+user_id: saierangan

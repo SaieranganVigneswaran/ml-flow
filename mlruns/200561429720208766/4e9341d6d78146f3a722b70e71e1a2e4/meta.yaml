@@ -1,0 +1,15 @@
+artifact_uri: /home/saierangan/ml-flow/mlruns/200561429720208766/4e9341d6d78146f3a722b70e71e1a2e4/artifacts
+end_time: 1712744206508
+entry_point_name: ''
+experiment_id: '200561429720208766'
+lifecycle_stage: active
+run_id: 4e9341d6d78146f3a722b70e71e1a2e4
+run_name: loud-smelt-482
+run_uuid: 4e9341d6d78146f3a722b70e71e1a2e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712744204543
+status: 3
+tags: []
+user_id: saierangan

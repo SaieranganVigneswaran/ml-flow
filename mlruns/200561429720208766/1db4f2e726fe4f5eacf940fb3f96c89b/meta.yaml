@@ -1,0 +1,16 @@
+artifact_uri: /home/saierangan/ml-flow/mlruns/200561429720208766/1db4f2e726fe4f5eacf940fb3f96c89b/artifacts
+deleted_time: 1712742306874
+end_time: 1712739731053
+entry_point_name: ''
+experiment_id: '200561429720208766'
+lifecycle_stage: deleted
+run_id: 1db4f2e726fe4f5eacf940fb3f96c89b
+run_name: brawny-kite-22
+run_uuid: 1db4f2e726fe4f5eacf940fb3f96c89b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712739728648
+status: 3
+tags: []
+user_id: saierangan

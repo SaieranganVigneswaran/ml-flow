@@ -1,0 +1,16 @@
+artifact_uri: /home/saierangan/ml-flow/mlruns/200561429720208766/3e0e14d50e654c6fb73c474a70850eca/artifacts
+deleted_time: 1712742306874
+end_time: 1712739585802
+entry_point_name: ''
+experiment_id: '200561429720208766'
+lifecycle_stage: deleted
+run_id: 3e0e14d50e654c6fb73c474a70850eca
+run_name: capable-cub-550
+run_uuid: 3e0e14d50e654c6fb73c474a70850eca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712739583770
+status: 3
+tags: []
+user_id: saierangan

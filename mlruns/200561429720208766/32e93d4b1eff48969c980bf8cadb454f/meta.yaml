@@ -1,0 +1,15 @@
+artifact_uri: /home/saierangan/ml-flow/mlruns/200561429720208766/32e93d4b1eff48969c980bf8cadb454f/artifacts
+end_time: 1712744204507
+entry_point_name: ''
+experiment_id: '200561429720208766'
+lifecycle_stage: active
+run_id: 32e93d4b1eff48969c980bf8cadb454f
+run_name: fun-conch-935
+run_uuid: 32e93d4b1eff48969c980bf8cadb454f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712744201867
+status: 3
+tags: []
+user_id: saierangan
